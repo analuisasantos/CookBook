@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine&family=Pacifico&display=swap');
 
 body{
+  
   font-family: 'Domine';
   background-color: rgb(233, 222, 205);
 }
 
 h1{
+  text-align: center;
   background-color: rgb(180, 180, 149);
   width: 500px;
   height: 50px;
@@ -16,6 +18,7 @@ h1{
 }
 
 header{
+  
   color: beige;
   background-color: rgb(180, 180, 149);
   text-align: center;
@@ -24,6 +27,7 @@ header{
 
 div{
   margin: 10px;
+  margin-left: 30px;
   text-align: center;
   color: whitesmoke;
   background-color: rgb(180, 180, 149);
@@ -33,5 +37,15 @@ div{
   border-color: rgb(197, 197, 151);
   border: 100px;
 
- 
 }
+
+section{
+  text-align: center;
+  
+}
+
+a:hover {
+  color: rgb(132, 170, 141);
+  text-decoration: underline;
+}
+
