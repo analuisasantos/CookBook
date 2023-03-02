@@ -17,6 +17,10 @@ h1{
 
 }
 
+h2{
+  color: rgb(49, 49, 32);
+}
+
 header{
   
   color: beige;
@@ -47,5 +51,9 @@ section{
 a:hover {
   color: rgb(132, 170, 141);
   text-decoration: underline;
+}
+
+ul{
+  color: rgb(49, 49, 32);
 }
 
